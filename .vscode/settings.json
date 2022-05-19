@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/51e06f10-e038-4eb5-9403-ffab9627d734/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/tripmanagementreactapp",
+    "appService.deploySubpath": "."
+}
