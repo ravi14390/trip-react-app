@@ -2,7 +2,7 @@ export const msalConfig = {
     auth: {
       clientId: "3a485eeb-93e6-4639-89aa-95549fc58eb4",
       authority: "https://login.microsoftonline.com/b6fe8f38-a2cb-4902-832f-1f65836c9c82", // This is a URL (e.g. https://login.microsoftonline.com/{your tenant ID})
-      redirectUri: "https://tripmanagementreactapp.azurewebsites.net",
+      redirectUri: "http://localhost:3000",
     },
     cache: {
       cacheLocation: "localStorage", // This configures where your cache will be stored
